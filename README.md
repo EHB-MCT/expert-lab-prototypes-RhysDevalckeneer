@@ -1,8 +1,7 @@
 
 # Expert Lab 2022
 
-A brief description of what this project does and who it's for
-
+Repo with code written during Expert Lab
 
 ## Authors
 
