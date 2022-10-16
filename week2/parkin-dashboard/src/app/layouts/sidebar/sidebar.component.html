@@ -1,0 +1,25 @@
+<!-- Tutorial: https://www.youtube.com/watch?v=8_Pm-aeQozA -->
+
+<div class="sidebar" [ngClass]="collapsed? 'sidebar-collapsed': 'sidebar'">
+    <div class="logo-container">
+        <button class="logo" (click)="toggleCollapse()">
+            <fa-icon [icon]="faBars"></fa-icon>
+        </button>
+        <div class="logo-text" @fadeInOut *ngIf="collapsed">Parkin</div>
+        <!-- <button class="btn-close" *ngIf="collapsed" (click)="toggleCollapse()">
+            <fa-icon [icon]="faClose"></fa-icon>
+        </button> -->
+    </div>
+    <ul class="sidebar-nav">
+        <li class="sidebar-nav-item" *ngFor="let data of sidebarData">
+            <a class="sidebar-nav-link" [routerLink]="[data.routeLink]" 
+            routerLinkActive="active" 
+            [routerLinkActiveOptions]="{ exact: true }">
+                <fa-icon class="sidebar-link-icon" [icon]="data.icon"></fa-icon>
+                <span class="sidebar-link-text" @fadeInOut *ngIf="collapsed">
+                    {{ data.label }}
+                </span>
+            </a>
+        </li>
+    </ul>
+</div>

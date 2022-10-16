@@ -1,0 +1,11 @@
+/Users/rhys/Documents/01_ehb/04_expert-lab/expert-lab-prototypes-RhysDevalckeneer/week1/rust-expert/web-scraper/target/debug/deps/socket2-0656f2f30ca2d024.rmeta: /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/lib.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockaddr.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/socket.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockref.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sys/unix.rs
+
+/Users/rhys/Documents/01_ehb/04_expert-lab/expert-lab-prototypes-RhysDevalckeneer/week1/rust-expert/web-scraper/target/debug/deps/libsocket2-0656f2f30ca2d024.rlib: /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/lib.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockaddr.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/socket.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockref.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sys/unix.rs
+
+/Users/rhys/Documents/01_ehb/04_expert-lab/expert-lab-prototypes-RhysDevalckeneer/week1/rust-expert/web-scraper/target/debug/deps/socket2-0656f2f30ca2d024.d: /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/lib.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockaddr.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/socket.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockref.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sys/unix.rs
+
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/lib.rs:
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockaddr.rs:
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/socket.rs:
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sockref.rs:
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/socket2-0.4.7/src/sys/unix.rs:

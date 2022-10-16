@@ -1,0 +1,10 @@
+/Users/rhys/Documents/01_ehb/04_expert-lab/expert-lab-prototypes-RhysDevalckeneer/week1/rust-expert/web-scraper/target/debug/deps/gloo_storage-d57bc465f768268c.rmeta: /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/rhys/Documents/01_ehb/04_expert-lab/expert-lab-prototypes-RhysDevalckeneer/week1/rust-expert/web-scraper/target/debug/deps/libgloo_storage-d57bc465f768268c.rlib: /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/rhys/Documents/01_ehb/04_expert-lab/expert-lab-prototypes-RhysDevalckeneer/week1/rust-expert/web-scraper/target/debug/deps/gloo_storage-d57bc465f768268c.d: /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs
+
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/lib.rs:
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/errors.rs:
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/local_storage.rs:
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-storage-0.2.2/src/session_storage.rs:

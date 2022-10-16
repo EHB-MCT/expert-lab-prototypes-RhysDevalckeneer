@@ -1,0 +1,1 @@
+/Users/rhys/Documents/01_ehb/04_expert-lab/expert-lab-prototypes-RhysDevalckeneer/week1/rust-expert/web-scraper/target/debug/web-scraper: /Users/rhys/Documents/01_ehb/04_expert-lab/expert-lab-prototypes-RhysDevalckeneer/week1/rust-expert/web-scraper/src/main.rs

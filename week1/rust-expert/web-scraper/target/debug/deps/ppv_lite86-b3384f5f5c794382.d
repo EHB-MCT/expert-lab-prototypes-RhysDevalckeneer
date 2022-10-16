@@ -1,0 +1,11 @@
+/Users/rhys/Documents/01_ehb/04_expert-lab/expert-lab-prototypes-RhysDevalckeneer/week1/rust-expert/web-scraper/target/debug/deps/ppv_lite86-b3384f5f5c794382.rmeta: /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/lib.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/soft.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/types.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/x86_64/mod.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/x86_64/sse2.rs
+
+/Users/rhys/Documents/01_ehb/04_expert-lab/expert-lab-prototypes-RhysDevalckeneer/week1/rust-expert/web-scraper/target/debug/deps/libppv_lite86-b3384f5f5c794382.rlib: /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/lib.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/soft.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/types.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/x86_64/mod.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/x86_64/sse2.rs
+
+/Users/rhys/Documents/01_ehb/04_expert-lab/expert-lab-prototypes-RhysDevalckeneer/week1/rust-expert/web-scraper/target/debug/deps/ppv_lite86-b3384f5f5c794382.d: /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/lib.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/soft.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/types.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/x86_64/mod.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/x86_64/sse2.rs
+
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/lib.rs:
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/soft.rs:
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/types.rs:
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/x86_64/mod.rs:
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.16/src/x86_64/sse2.rs:

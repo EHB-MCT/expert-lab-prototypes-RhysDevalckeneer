@@ -53,7 +53,7 @@ func getMovies() {
 }
 
 
-/** web **/
+/** web 
 
 func main() {
 	fileServer := http.FileServer(http.Dir("./static"))
@@ -63,7 +63,8 @@ func main() {
 	if err := http.ListenAndServe(":3000", nil); err != nil {
 		log.Fatal(err)
 	}
-}
+	
+	**/
 
 // Index Page
 func index(w http.ResponseWriter, r *http.Request) {

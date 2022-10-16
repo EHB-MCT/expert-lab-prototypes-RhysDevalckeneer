@@ -1,0 +1,11 @@
+/Users/rhys/Documents/01_ehb/04_expert-lab/expert-lab-prototypes-RhysDevalckeneer/week1/rust-expert/web-scraper/target/debug/deps/gloo_file-3e44f92a71e9e6f6.rmeta: /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/lib.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/blob.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/file_list.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/file_reader.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/object_url.rs
+
+/Users/rhys/Documents/01_ehb/04_expert-lab/expert-lab-prototypes-RhysDevalckeneer/week1/rust-expert/web-scraper/target/debug/deps/libgloo_file-3e44f92a71e9e6f6.rlib: /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/lib.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/blob.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/file_list.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/file_reader.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/object_url.rs
+
+/Users/rhys/Documents/01_ehb/04_expert-lab/expert-lab-prototypes-RhysDevalckeneer/week1/rust-expert/web-scraper/target/debug/deps/gloo_file-3e44f92a71e9e6f6.d: /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/lib.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/blob.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/file_list.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/file_reader.rs /Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/object_url.rs
+
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/lib.rs:
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/blob.rs:
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/file_list.rs:
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/file_reader.rs:
+/Users/rhys/.cargo/registry/src/github.com-1ecc6299db9ec823/gloo-file-0.2.3/src/object_url.rs:
