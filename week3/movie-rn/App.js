@@ -10,7 +10,7 @@ import SearchScreen from './src/screens/SearchScreen';
 import SettingsScreen from './src/screens/SettingsScreen';
 
 // Import Styles
-import styles from './src/styles/Navigation/TabBarStyle';
+// import styles from './src/styles/Navigation/TabBarStyle';
 
 const Tab = createBottomTabNavigator();
 
@@ -18,7 +18,7 @@ export default function App() {
   return (
     <>
       <StatusBar hidden={true}/>
-      <NavigationContainer >
+      <NavigationContainer>
         <Tab.Navigator  
           screenOptions={({ route }) => ({
             headerShown: false,
@@ -45,9 +45,6 @@ export default function App() {
             tabBarActiveTintColor: '#3E424A',
             tabBarInactiveTintColor: '#9CA3AF',
             tabBarShowLabel: false,
-            tabBarStyle: [
-              styles.tabBarStyle
-            ],
           })}
         >
           <Tab.Screen name="Home" component={HomeScreen} options={{ headerShown: false }}  />
